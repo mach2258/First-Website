@@ -1,5 +1,13 @@
+header{
+    background-color: rgb(176, 5, 255)
+}
+
+
+
 body { 
     font-family: 'Gemunu Libre', sans-serif;
+    color: white;
+    background-color: black;
 }
 
 
