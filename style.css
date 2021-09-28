@@ -1,0 +1,29 @@
+body { 
+    font-family: 'Gemunu Libre', sans-serif;
+}
+
+
+
+
+header > h1, nav {
+    display: inline-block;
+}
+
+
+header > nav {
+    float: right;
+}
+
+
+
+header > nav > ul {
+    list-style-type: none;
+}
+
+
+
+
+.navListItem{
+    display: inline;
+    margin-right: 35px;
+}
